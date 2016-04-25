@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="2.0.0"></a>
+# [2.0.0](https://github.com/benmonro/stv-ex/compare/v1.2.0...v2.0.0) (2016-04-25)
+
+
+### Features
+
+* added stuff ([#3](https://github.com/benmonro/stv-ex/issues/3)) ([b0cf6c5](https://github.com/benmonro/stv-ex/commit/b0cf6c5))
+
+
+### BREAKING CHANGES
+
+* S: did a boo boo
+
+* more business
+* S: derp dee derp
+
+
+
 <a name="1.2.0"></a>
 # [1.2.0](https://github.com/benmonro/stv-ex/compare/v1.1.0...v1.2.0) (2016-04-25)
 
